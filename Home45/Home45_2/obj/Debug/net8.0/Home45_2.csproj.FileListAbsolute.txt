@@ -1,0 +1,14 @@
+D:\Home45\Home45_2\bin\Debug\net8.0\Home45_2.exe
+D:\Home45\Home45_2\bin\Debug\net8.0\Home45_2.deps.json
+D:\Home45\Home45_2\bin\Debug\net8.0\Home45_2.runtimeconfig.json
+D:\Home45\Home45_2\bin\Debug\net8.0\Home45_2.dll
+D:\Home45\Home45_2\bin\Debug\net8.0\Home45_2.pdb
+D:\Home45\Home45_2\obj\Debug\net8.0\Home45_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home45\Home45_2\obj\Debug\net8.0\Home45_2.AssemblyInfoInputs.cache
+D:\Home45\Home45_2\obj\Debug\net8.0\Home45_2.AssemblyInfo.cs
+D:\Home45\Home45_2\obj\Debug\net8.0\Home45_2.csproj.CoreCompileInputs.cache
+D:\Home45\Home45_2\obj\Debug\net8.0\Home45_2.dll
+D:\Home45\Home45_2\obj\Debug\net8.0\refint\Home45_2.dll
+D:\Home45\Home45_2\obj\Debug\net8.0\Home45_2.pdb
+D:\Home45\Home45_2\obj\Debug\net8.0\Home45_2.genruntimeconfig.cache
+D:\Home45\Home45_2\obj\Debug\net8.0\ref\Home45_2.dll

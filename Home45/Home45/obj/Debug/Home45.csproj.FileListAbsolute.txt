@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Home45\Home45\bin\Debug\Home45.exe.config
+C:\Users\User\source\repos\Home45\Home45\bin\Debug\Home45.exe
+C:\Users\User\source\repos\Home45\Home45\bin\Debug\Home45.pdb
+C:\Users\User\source\repos\Home45\Home45\obj\Debug\Home45.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Home45\Home45\obj\Debug\Home45.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Home45\Home45\obj\Debug\Home45.exe
+C:\Users\User\source\repos\Home45\Home45\obj\Debug\Home45.pdb
+D:\Home45\Home45\bin\Debug\Home45.exe.config
+D:\Home45\Home45\bin\Debug\Home45.exe
+D:\Home45\Home45\bin\Debug\Home45.pdb
+D:\Home45\Home45\obj\Debug\Home45.csproj.AssemblyReference.cache
+D:\Home45\Home45\obj\Debug\Home45.csproj.CoreCompileInputs.cache
+D:\Home45\Home45\obj\Debug\Home45.exe
+D:\Home45\Home45\obj\Debug\Home45.pdb
